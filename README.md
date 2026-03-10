@@ -1,3 +1,4 @@
 # demo-project
-this is my first repository
-author-pragya katiyar
+this is my first repository.
+<br>
+Author-pragya katiyar
